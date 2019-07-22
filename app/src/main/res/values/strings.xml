@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Question Game</string>
+    <string name="android_is_over_10_years_old">Is Android over 10 years old?</string>
+    <string name="yes">Yes</string>
+    <string name="no_answer">No</string>
+    <string name="about_section">About Section</string>
+    <string name="about_text">Licenses: @lottiefiles / LottieFiles, @victorw / LottieFiles</string>
+    <string name="about">About This App</string>
+</resources>
